@@ -1,0 +1,426 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+ul {
+    font-size: 20px;
+    font-family: arial;
+}
+
+.Heading{
+    width: 100%;
+    height: 100px;
+    border: 2px dashed greenyellow;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    margin: 10px 400px;
+    color: goldenrod;
+}
+
+.fd1 {
+    width: 100%;
+    float: left;
+}
+
+.ld1 {
+    width: 25%;
+    list-style-image: url('image/1.jpg');
+    float: left;
+}
+
+.ld2 {
+    width: 25%;
+    list-style-image: url('image/3.png');
+    float: left;
+}
+
+.ld3 {
+    width: 25%;
+    list-style-image: url('image/2.png');
+    float: left;
+}
+
+.ld4 {
+    width: 25%;
+    list-style-image: url('image/4.png');
+    float: left;
+}
+
+.ld5 {
+    width: 25%;
+    list-style-image: url('image/8.png');
+    float: left;
+}
+
+.ld6 {
+    width: 25%;
+    list-style-image: url('image/4.png');
+    float: left;
+}
+
+.ld7 {
+    width: 25%;
+    list-style-image: url('image/5.png');
+    float: left;
+}
+
+.ld8 {
+    width: 25%;
+    list-style-image: url('image/7.png');
+    float: left;
+}
+
+.ld9 {
+    width: 25%;
+    list-style-image: url('image/5.png');
+    float: left;
+}
+
+.ld10 {
+    width: 25%;
+    list-style-image: url('image/6.png');
+    float: left;
+}
+
+.ld11 {
+    width: 25%;
+    list-style-image: url('image/4.png');
+    float: left;
+}
+
+.ld12 {
+    width: 25%;
+    list-style-image: url('image/3.png');
+    float: left;
+}
+
+
+.BGC {
+    width: 100%;
+    height: 650px;
+
+    float: left;
+}
+
+.box1 {
+    width: 100%;
+    margin: 100px auto;
+    float: left;
+}
+
+.b1 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 25px;
+    background-image: url(image/t&s\ logo.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    border: 10px solid #ea907a;
+    padding: 50px 500px;
+    outline: 10px auto;
+}
+
+.box2 {
+    width: 100%;
+    margin: 100px auto;
+    float: left;
+}
+
+.b2 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 25px;
+    background-image: url(image/t&s\ logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 10px solid #ea907a;
+    padding: 50px 490px;
+    outline: 10px auto;
+}
+
+.box3 {
+    width: 100%;
+    margin: 100px auto;
+    float: left;
+}
+
+.b3 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 25px;
+    background-image: url(image/t&s\ logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 10px solid #ea907a;
+    padding: 50px 490px;
+    outline: 10px auto;
+}
+
+.BGTI {
+    width: 100%;
+    height: 680px;
+    background-color: black;
+    float: left;
+}
+
+.td1 {
+    width: 100%;
+    margin: 100px auto 0px auto;
+    float: left;
+}
+
+.t1 {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 1px 525px;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+.td2 {
+    width: 100%;
+    margin: 0px auto 20px 10;
+    float: left;
+}
+
+.t2 {
+    width: 100%;
+    color: transparent;
+    margin: 1px 110px;
+    font-weight: bolder;
+    font-size: 350px;
+    font-family: cursive;
+    background-image: url(image/Screenshot\ \(7\).png);
+    background-size: cover;
+    -webkit-background-clip: text;
+    text-align: center;
+
+}
+
+.td3 {
+    width: 100%;
+    margin: 10px auto 0px auto;
+    float: left;
+}
+
+.t3 {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 1px 550px;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+.repeat {
+    width: 100%;
+    height: 1000px;
+    float: left;
+}
+
+.r1 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 50px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: repeat-x;
+    float: left;
+}
+
+.r2 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 50px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: repeat-y;
+    float: left;
+}
+
+.r3 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 50px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: repeat;
+    float: left;
+}
+
+.r4 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 30px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: space;
+    float: left;
+}
+
+.r5 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 30px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: round;
+    float: left;
+}
+
+.r6 {
+
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 30px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.r7 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 30px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: space repeat;
+    float: left;
+}
+
+.r8 {
+    width: 20%;
+    height: 20%;
+    margin: 80px 0px 80px 30px;
+    border: 2px dashed black;
+    background-image: url(image/t&s\ logo.png);
+    background-size: 35% 35%;
+    background-repeat: round space;
+    float: left;
+}
+
+.padding {
+    width: 100%;
+    height: 500px;
+}
+
+.p1 {
+    width: 20%;
+    height: 350px;
+    padding: 15px;
+    margin-left: 50px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: 35% 35%;
+    float: left;
+}
+
+.p2 {
+
+    width: 20%;
+    height: 350px;
+    padding: 15px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+    background-size: 35% 35%;
+    float: left;
+
+}
+
+.p3 {
+
+    width: 25%;
+    height: 350px;
+    padding: 15px;
+    margin-left: 40px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 35% 35%;
+    float: left;
+
+}
+
+.p4 {
+
+    width: 25%;
+    height: 350px;
+    padding: 15px;
+    margin: 50px 30px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-size: 35% 35%;
+    background-clip: padding-box;
+    float: left;
+
+}
+
+.p5 {
+    width: 25%;
+    height: 350px;
+    padding: 15px;
+    margin: 50px 20px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-clip: padding-box;
+    background-size: 35% 35%;
+    float: left;
+
+}
+
+.p6 {
+
+    width: 25%;
+    height: 350px;
+    padding: 15px;
+    margin:50px 15px;
+    background-color: red;
+    color: white;
+    border: 20px dotted blue;
+    background-image: url(image/t&s\ logo.png);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 35% 35%;
+    background-clip: content-box;
+    float: left;
+
+}
